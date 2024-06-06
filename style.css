@@ -1,0 +1,30 @@
+.img{
+    width: 100px !important; 
+}
+
+.hidden{
+    visibility: hidden;
+}
+textarea{
+   margin-right: 20px;
+}
+.btn{
+    width: 80px!important;
+    /* border: 1px solid lightgray; */
+    background-color: #EDEDED!important;
+}
+.icon{
+    width: 30px;
+    position: absolute;
+    top: 50px;
+    left: 350px;
+}
+*{
+    color:gray;
+}
+form p,label{
+    color: black;
+}
+.label{
+    color:gray;
+}
